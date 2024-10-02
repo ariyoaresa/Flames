@@ -121,7 +121,7 @@ function calc(){
                 result.style.color='red';
         }
         else if(ar=="S"){
-                result.innerHTML = 'SISTER';
+                result.innerHTML = 'SIBLING';
                 result.style.color='violet';
         }
                  
